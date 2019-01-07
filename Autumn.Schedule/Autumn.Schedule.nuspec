@@ -1,22 +1,25 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
+    <id>Autumn.Net.Schedule</id>
+    <version>0.1.2</version>
     <title>$title$</title>
     <authors>Dmitry Vysochin</authors>
     <owners>Dmitry Vysochin</owners>
     <license type="file">license.txt</license>
-    <projectUrl>git@github.com:AutumnNet/Autumn.Net.Schedule.git</projectUrl>
+    <projectUrl>https://github.com/AutumnNet/Autumn.Net.Schedule</projectUrl>
     <iconUrl>https://avatars0.githubusercontent.com/u/46298405?s=128&amp;v=4</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <description>Scheduling for Autumn Framework</description>
+    <releaseNotes>First version.</releaseNotes>
     <copyright>Copyright 2019</copyright>
     <tags>DI Autumn Schedule</tags>
+    <dependencies>
+      <dependency id="Autumn.Net" version="0.1.2" />
+    </dependencies>
   </metadata>
   <files>
     <file src="licenses/license.txt" target="" />
-    <file src="bin\Debug\*.*" target="build" />
+    <file src="bin\Debug\Autumn.Net.Schedule.*" target="build" />
   </files>
 </package>

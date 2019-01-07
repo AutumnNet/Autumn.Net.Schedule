@@ -7,8 +7,8 @@
     <ProjectGuid>{12031CE3-DD36-4574-B876-FF64EC8A4F5E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Autumn.Schedule</RootNamespace>
-    <AssemblyName>Autumn.Schedule</AssemblyName>
+    <RootNamespace>Autumn.Net.Schedule</RootNamespace>
+    <AssemblyName>Autumn.Net.Schedule</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

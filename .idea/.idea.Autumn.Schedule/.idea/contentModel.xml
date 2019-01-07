@@ -6,6 +6,7 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="Autumn.Schedule" t="IncludeRecursive">
         <e p="Autumn.Schedule.csproj" t="IncludeRecursive" />
+        <e p="Autumn.Schedule.nuspec" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="licenses" t="Include">
           <e p="license.txt" t="Include" />

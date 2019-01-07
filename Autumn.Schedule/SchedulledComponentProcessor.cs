@@ -7,7 +7,7 @@ using Autumn.Net.Annotation;
 using Autumn.Net.Engine;
 using Autumn.Net.Interfaces;
 
-namespace Autumn.Schedule
+namespace Autumn.Net.Schedule
 {
     [Service]
     public class SchedulledComponentProcessor : IAutumnComponentInitializationProcessor

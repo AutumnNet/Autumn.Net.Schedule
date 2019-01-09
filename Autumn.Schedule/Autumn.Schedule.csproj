@@ -32,8 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Autumn.Net, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\packages\Autumn.Net.0.1.2\lib\net46\Autumn.Net.dll</HintPath>
+    <Reference Include="Autumn.Net, Version=0.1.4.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\Autumn.Net.0.1.5\lib\net46\Autumn.Net.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Autumn.Schedule.nuspec" />
-    <Content Include="licenses\license.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

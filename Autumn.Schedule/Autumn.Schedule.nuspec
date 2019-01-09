@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Autumn.Net.Schedule</id>
-    <version>0.1.2</version>
+    <version>0.1.6</version>
     <title>$title$</title>
     <authors>Dmitry Vysochin</authors>
     <owners>Dmitry Vysochin</owners>
@@ -15,11 +15,11 @@
     <copyright>Copyright 2019</copyright>
     <tags>DI Autumn Schedule</tags>
     <dependencies>
-      <dependency id="Autumn.Net" version="0.1.2" />
+      <dependency id="Autumn.Net" version="0.1.5" />
     </dependencies>
   </metadata>
   <files>
     <file src="licenses/license.txt" target="" />
-    <file src="bin\Debug\Autumn.Net.Schedule.*" target="build" />
+    <file src="bin\Debug\Autumn.Net.Schedule.*" target="lib/net46" />
   </files>
 </package>

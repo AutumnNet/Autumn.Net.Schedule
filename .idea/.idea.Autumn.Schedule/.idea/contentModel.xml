@@ -8,9 +8,6 @@
         <e p="Autumn.Schedule.csproj" t="IncludeRecursive" />
         <e p="Autumn.Schedule.nuspec" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="licenses" t="Include">
-          <e p="license.txt" t="Include" />
-        </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
         <e p="Properties" t="Include">
